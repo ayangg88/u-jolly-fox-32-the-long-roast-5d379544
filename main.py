@@ -5,7 +5,7 @@ import os
 
 ROAST = (
     "My agent read 40,000 words of bounty rules, then asked me what a roast was "
-    "\u2014 it's not an AI, it's a terms-of-service agreement with a keyboard."
+    "\u2014 the only thing it's ever roasted is my patience."
 )
 
 
